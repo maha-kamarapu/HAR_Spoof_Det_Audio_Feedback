@@ -22,15 +22,15 @@ Originally developed by researchers at the Royal Institute of Technology (KTH) f
 ![kth_meas](https://github.com/user-attachments/assets/45a4edb2-e60a-4f52-9767-06cf10d49285)
 
 
-### 2. [UCF50 Dataset:](https://www.crcv.ucf.edu/data/UCF50.php)
+### 2. [UCF Sports Action Dataset:](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php)
 
-It is created by the Center for Research in Computer Vision (CRCV) at the University of Central Florida. It includes a wide variety of videos covering 50 action categories, ranging from sports to everyday activities, making it well-suited for addressing complex action recognition tasks.
+It is created by the Center for Research in Computer Vision (CRCV) at the University of Central Florida. It includes a wide variety of videos covering 10 action categories,  making it well-suited for addressing complex action recognition tasks.
 #### Results:
 ![ucfsports](https://github.com/user-attachments/assets/3863d446-d1a4-4dee-92a3-cf794382f7a9)
 
 
 ![ucf_metttt](https://github.com/user-attachments/assets/3da65a99-3097-4016-8628-626b22fb7a25)
-The lables correspind to the respective actions in the previous image.
+The labels correspond to the respective actions in the previous image.
 
 
 ### 3. [iBETA Level 2 Video Attack Dataset:](https://www.kaggle.com/datasets/unidatapro/ibeta-level-2-certification)
